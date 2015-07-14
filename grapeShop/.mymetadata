@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="grapeShop"
+  id="myeclipse.1403775922463"
+  context-root="/grapeShop"
+  j2ee-spec="5.0"
+  archive="grapeShop.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
